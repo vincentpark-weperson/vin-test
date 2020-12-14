@@ -1,0 +1,9 @@
+{
+  "name": "vin-test",
+  "version": "1.0.0",
+  "description": "vin test module",
+  "main": "index.js",
+  "repository": "https://github.com/vincentpark-weperson/vin-test.git",
+  "author": "vincent.park <vincent.park@weperson.com>",
+  "license": "MIT"
+}
